@@ -14,7 +14,7 @@ public class Rocket implements SpaceShip {
 
     List<Item> items_Loaded = null;
 
-    public int getRocket_Cost() {
+    public int getRocketCost() {
         return rocket_Cost;
     }
     public void setItems_Loaded(List<Item> items_Loaded) {
